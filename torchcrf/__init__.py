@@ -3,7 +3,7 @@ from typing import List, Optional, Union
 import torch
 import torch.nn as nn
 from torch import Tensor
-import torch.tensor
+#import torch.tensor
 
 
 class CRF(nn.Module):
